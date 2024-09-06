@@ -10,7 +10,7 @@
 - [Contact](#contact)
 
 ## Overview
-The aim of this project is to go through the dataset of Glassdoor Data Science Job Posting, identify any discrepancy in the data, and update those with various transformation techniques using Pandas functions. At the end of the project, we will have a cleaned and valid dataset which is ready for the next steps. 
+The aim of this project is to go through the dataset of Glassdoor Data Science Job Posting, identify any discrepancies in the data, and update those with various transformation techniques using Pandas functions. At the end of the project, we will have a cleaned and valid dataset which is ready for the next steps. 
 
 ## Dataset
 Provide details about the dataset(s) used in the project.
