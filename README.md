@@ -5,9 +5,7 @@
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Methodology](#methodology)
-- [Visualizations](#visualizations)
 - [Conclusions](#conclusions)
-- [Future Work](#future-work)
 - [License](#license)
 - [Contact](#contact)
 
